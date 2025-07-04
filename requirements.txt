@@ -1,0 +1,2 @@
+# Python dependencies for building and using the Rust extension
+maturin>=1.0

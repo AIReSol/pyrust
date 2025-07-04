@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+.venv/
+
+# Rust
+target/
+Cargo.lock
+
+# Build artifacts
+build/
+dist/
+
+# Testing
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# macOS
+.DS_Store
+
+# Project specific
+*.log
+build.sh
